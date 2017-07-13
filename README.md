@@ -28,6 +28,7 @@ There also also more images on the images folder so be sure to check them out! I
 3. I recommend removing previous reshade/stormshade installations just to be sure.
 4. Login and it should work
 5. Open the menu (Default should be Shift + F2) and find my preset there you can customize things as you like.
+6. Turn off the Ingame FXAA so the shader one can take over. Everything was taken with Max graphics with FXAA Off.
 
 # Extras
 1. You can change the Menu Button as well as toggle effects ON and OFF (My preset has the menu at F11 and Toggle effects at F12)
