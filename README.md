@@ -7,7 +7,7 @@ These shaders were added in addition to all of stormshade's default lineup
     FXAA.fx
     FXAA.fxh
     LumaSharpen.fx
-    Vinbrance.fx
+    Vibrance.fx
     
     
 Here are two examples of some effects turned on and off
