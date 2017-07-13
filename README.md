@@ -20,6 +20,7 @@ The second image has the default stormshade shaders (with edited values + Vibran
 
 Just tweak the settings as you like, The first image is more closer to the default stormshade just without the washed out colors.
 The second image makes everything looks sharper, which I personally like. But I switch between the two whenever I feel like it.
+There also also more images on the images folder so be sure to check them out! I put quite a bit of examples over there~
 
 # How to Install
 1. Download everything in the master repository except the images folder
