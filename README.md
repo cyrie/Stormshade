@@ -20,3 +20,15 @@ The second image has the default stormshade shaders + Vibrance , FXAA , LumaShar
 
 Just tweak the settings as you like, The first image is more closer to the default stormshade just without the washed out colors.
 The second image makes everything looks sharper, which I personally like. But I switch between the two whenever I feel like it.
+
+# How to Install
+1. Download everything in the master repository except the images folder
+2. Locate where your game is installed (ie. C:\Games\Final Fantasy XIV\SquareEnix\Final Fantasy XIV - A Realm Reborn\game) extract the files within the game folder
+3. I recommend removing previous reshade/stormshade installations just to be sure.
+4. Login and it should work
+5. Open the menu (Default should be Shift + F2) and find my preset there you can customize things as you like.
+
+# Extras
+1. You can change the Menu Button as well as toggle effects ON and OFF (My preset has the menu at F11 and Toggle effects at F12)
+2. If you want to set the screenshot folder location make a specific place and name for it and type the directory over in the stormshade menu (ie. C:\Games\Stormshade SS) You can also change the screenshot button if you like.
+3. Make sure to change the format to PNG as many things do not support the BMP format.
