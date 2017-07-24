@@ -27,8 +27,11 @@ There are also more images on the images folder so be sure to check them out! I 
 2. Locate where your game is installed (ie. C:\Games\Final Fantasy XIV\SquareEnix\Final Fantasy XIV - A Realm Reborn\game) extract the files within the game folder
 3. I recommend removing previous reshade/stormshade installations just to be sure.
 4. Login and it should work
-5. Open the menu (Default should be Shift + F2) and find my preset there you can customize things as you like.
+5. Open the settings menu (Default should be Shift + F2 and my preset should be defaulted to F11) and find my preset there. 
+You can customize things as you like.
 6. Turn off the Ingame FXAA so the shader one can take over. Everything was taken with Max graphics with FXAA Off.
+7. Make sure you adjust the filepaths since we use different ones, Go to the settings and change the effect search paths and texture search paths to your own install directory
+
 
 # Extras
 1. You can change the Menu Button as well as toggle effects ON and OFF (My preset has the menu at F11 and Toggle effects at F12)
