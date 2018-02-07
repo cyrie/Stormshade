@@ -39,3 +39,4 @@ You can customize things as you like.
 3. Make sure to change the format to PNG as many things do not support the BMP format.
 4. Depending on your rig you might lose around 5-15 fps , my rig is very dated now but it still works pretty well on FFXIV
 I run a GTX 960 , i5 4430 w/ 16 GB Ram and XIV inside an SSD so if yours is way better you might not even feel any fps loss. I myself lose around 10 depending on the place and how crowded it is.
+5. I recently just replaced the old MXAO with the newer one but as I have no access to XIV right now, I cant really tweak the settings and see the stuff for myself, so if anything is wrong please edit MXAO.fx and play around with the pre-processor settings and change it accordingly.
